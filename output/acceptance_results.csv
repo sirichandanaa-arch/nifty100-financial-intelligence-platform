@@ -1,0 +1,23 @@
+gate,status,detail
+AC-01,PASS,companies count = 92
+AC-02-profitandloss,PASS,88/92 companies have >=10 records
+AC-02-balancesheet,PASS,87/92 companies have >=10 records
+AC-02-cashflow,PASS,85/92 companies have >=10 records
+AC-03,PASS,foreign key check = 0 rows
+AC-04,PASS,financial_ratios >= 1100 rows
+AC-05,PASS,3/3 manual-equivalent CAGR spot checks within 0.1%
+AC-06,PASS,at least 5 latest annual ROE comparisons within 5%
+AC-07,PASS,Quality Compounder strict result count = 23
+AC-08,PASS,profile query max = 0.018s
+AC-09,PASS,screener CSV generated and parseable
+AC-10,PASS,5 sample tearsheets contain exactly 2 pages
+AC-11,PASS,health endpoint HTTP 200
+AC-12,PASS,TCS ratios records = 13
+AC-13,PASS,API screener count 23 matches strict workbook query 23
+AC-14,PASS,11 peer groups
+AC-15,PASS,92 companies have cluster IDs
+AC-16,PASS,every company has >=1 pro and >=1 con
+AC-17,PASS,92 tearsheets; minimum size 50536 bytes
+AC-18,PASS,pytest HTML report exists
+AC-19,PASS,validation failure schema present
+AC-20,PASS,analyst guide pages = 20

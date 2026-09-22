@@ -1,0 +1,11 @@
+table,source_rows,loaded_rows,rejected_rows,severity
+companies,92,92,0,
+profitandloss,1276,1263,13,WARNING
+balancesheet,1312,1225,87,WARNING
+cashflow,1187,1164,23,WARNING
+documents,1457,1457,0,
+analysis,51,51,0,
+prosandcons,14,14,0,
+sectors,92,92,0,
+stock_prices,5520,5520,0,
+peer_groups,56,56,0,

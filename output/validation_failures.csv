@@ -1,0 +1,3 @@
+rule_id,company_id,field,issue,severity
+DQ-15,,,No stock price records,CRITICAL
+DQ-16,,company_id,Expected 92 companies,CRITICAL

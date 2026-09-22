@@ -1,0 +1,400 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,92.5
+ABB,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+ABB,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ABB,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+ABB,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+ABB,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ADANIENSOL,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ADANIENSOL,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ADANIENSOL,con,C01,Debt-to-equity ratio of 2.93 is elevated for a non-financial company and warrants monitoring,90.0
+ADANIENT,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ADANIENT,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+ADANIENT,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+ADANIENT,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ADANIGREEN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ADANIGREEN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ADANIGREEN,con,C01,Debt-to-equity ratio of 6.60 is elevated for a non-financial company and warrants monitoring,90.0
+ADANIPORTS,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ADANIPORTS,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ADANIPORTS,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+ADANIPORTS,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ADANIPOWER,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+ADANIPOWER,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ADANIPOWER,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ADANIPOWER,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+AMBUJACEM,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+AMBUJACEM,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+APOLLOHOSP,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+APOLLOHOSP,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+APOLLOHOSP,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+APOLLOHOSP,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ASIANPAINT,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,89.7
+ASIANPAINT,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+ASIANPAINT,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ASIANPAINT,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+ASIANPAINT,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+ASIANPAINT,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ATGL,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ATGL,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+ATGL,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ATGL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+ATGL,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+AXISBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+AXISBANK,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+AXISBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+AXISBANK,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+BAJAJ-AUTO,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,86.6
+BAJAJ-AUTO,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BAJAJ-AUTO,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+BAJAJ-AUTO,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+BAJAJFINSV,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+BAJAJFINSV,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+BAJAJFINSV,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+BAJAJFINSV,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+BAJAJFINSV,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+BAJAJHLDNG,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+BAJAJHLDNG,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+BAJAJHLDNG,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BAJAJHLDNG,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+BAJAJHLDNG,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+BAJAJHLDNG,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+BAJFINANCE,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+BAJFINANCE,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+BAJFINANCE,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+BAJFINANCE,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BAJFINANCE,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+BAJFINANCE,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+BANKBARODA,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+BANKBARODA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+BANKBARODA,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+BANKBARODA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+BANKBARODA,con,C03,Operating margins have declined across the latest three observations,82.0
+BANKBARODA,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+BEL,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+BEL,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BEL,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+BHARTIARTL,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+BHARTIARTL,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+BHARTIARTL,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+BHARTIARTL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+BHARTIARTL,con,C01,Debt-to-equity ratio of 2.61 is elevated for a non-financial company and warrants monitoring,90.0
+BHEL,pro,P12,Operating and financial metrics provide a measurable basis for continued monitoring,65.0
+BHEL,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+BHEL,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+BOSCHLTD,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,80.6
+BOSCHLTD,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BOSCHLTD,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+BOSCHLTD,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+BPCL,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,95.5
+BPCL,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+BPCL,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BPCL,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+BPCL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+BPCL,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+BRITANNIA,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+BRITANNIA,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+BRITANNIA,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+BRITANNIA,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+CANBK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+CANBK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+CANBK,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+CANBK,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+CANBK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+CANBK,con,C03,Operating margins have declined across the latest three observations,82.0
+CANBK,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+CHOLAFIN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+CHOLAFIN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+CHOLAFIN,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+CHOLAFIN,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+CHOLAFIN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+CHOLAFIN,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+CIPLA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+CIPLA,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+CIPLA,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+CIPLA,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+CIPLA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+CIPLA,con,C03,Operating margins have declined across the latest three observations,82.0
+COALINDIA,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+COALINDIA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+COALINDIA,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+COALINDIA,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+COALINDIA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+COALINDIA,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+DABUR,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+DABUR,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+DABUR,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+DIVISLAB,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+DIVISLAB,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+DIVISLAB,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+DIVISLAB,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+DLF,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+DLF,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+DLF,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+DLF,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+DMART,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+DMART,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+DMART,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+DMART,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+DMART,con,C03,Operating margins have declined across the latest three observations,82.0
+DRREDDY,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+DRREDDY,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+DRREDDY,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+DRREDDY,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+DRREDDY,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+DRREDDY,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+EICHERMOT,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,82.2
+EICHERMOT,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+EICHERMOT,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+EICHERMOT,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+EICHERMOT,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+GAIL,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+GAIL,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+GAIL,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+GODREJCP,pro,P12,Operating and financial metrics provide a measurable basis for continued monitoring,65.0
+GODREJCP,con,C04,The latest period shows a net loss relative to sales,95.0
+GODREJCP,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+GRASIM,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+GRASIM,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+GRASIM,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+HAL,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+HAL,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+HAL,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+HAL,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HAL,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HAL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+HAL,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+HAVELLS,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HAVELLS,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HAVELLS,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+HCLTECH,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,83.0
+HCLTECH,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HCLTECH,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HCLTECH,con,C03,Operating margins have declined across the latest three observations,82.0
+HDFCBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+HDFCBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+HDFCBANK,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+HDFCBANK,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HDFCBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+HDFCBANK,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+HDFCBANK,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+HDFCLIFE,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+HDFCLIFE,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+HDFCLIFE,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HDFCLIFE,con,C03,Operating margins have declined across the latest three observations,82.0
+HEROMOTOCO,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,81.1
+HEROMOTOCO,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+HEROMOTOCO,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HEROMOTOCO,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HEROMOTOCO,con,C03,Operating margins have declined across the latest three observations,82.0
+HEROMOTOCO,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+HINDALCO,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+HINDALCO,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HINDALCO,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HINDALCO,con,C03,Operating margins have declined across the latest three observations,82.0
+HINDUNILVR,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,80.1
+HINDUNILVR,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+HINDUNILVR,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+HINDUNILVR,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+HINDUNILVR,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ICICIBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ICICIBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ICICIBANK,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+ICICIBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+ICICIBANK,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+ICICIGI,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ICICIGI,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ICICIGI,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+ICICIGI,con,C03,Operating margins have declined across the latest three observations,82.0
+ICICIPRULI,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+ICICIPRULI,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ICICIPRULI,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ICICIPRULI,con,C03,Operating margins have declined across the latest three observations,82.0
+INDIGO,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+INDIGO,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+INDIGO,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+INDIGO,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+INDIGO,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+INDIGO,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+INDIGO,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+INDUSINDBK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+INDUSINDBK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+INDUSINDBK,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+INDUSINDBK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+INDUSINDBK,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+INFY,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,89.8
+INFY,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+INFY,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+IOC,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,83.5
+IOC,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+IOC,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+IOC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+IOC,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+IOC,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+IRCTC,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,94.4
+IRCTC,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+IRCTC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+IRCTC,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+IRCTC,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+IRCTC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+IRCTC,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+IRCTC,con,C03,Operating margins have declined across the latest three observations,82.0
+IRFC,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+IRFC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+IRFC,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+IRFC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+IRFC,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+IRFC,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+IRFC,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+ITC,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,87.9
+ITC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+ITC,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ITC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+ITC,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+JINDALSTEL,pro,P12,Operating and financial metrics provide a measurable basis for continued monitoring,65.0
+JINDALSTEL,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+JIOFIN,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95.0
+JIOFIN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+JIOFIN,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+JIOFIN,con,C03,Operating margins have declined across the latest three observations,82.0
+JIOFIN,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+JSWENERGY,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+JSWENERGY,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+JSWENERGY,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+JSWENERGY,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+JSWSTEEL,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+JSWSTEEL,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+KOTAKBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+KOTAKBANK,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+KOTAKBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+KOTAKBANK,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+LICI,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+LICI,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95.0
+LICI,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+LICI,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+LICI,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+LICI,con,C03,Operating margins have declined across the latest three observations,82.0
+LODHA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+LODHA,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+LT,pro,P12,Operating and financial metrics provide a measurable basis for continued monitoring,65.0
+LT,con,C03,Operating margins have declined across the latest three observations,82.0
+LTIM,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,82.9
+LTIM,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+LTIM,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+LTIM,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+LTIM,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+LTIM,con,C03,Operating margins have declined across the latest three observations,82.0
+M&M,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+M&M,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+MARUTI,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+MARUTI,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+MARUTI,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+MOTHERSON,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+MOTHERSON,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+NAUKRI,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+NAUKRI,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+NAUKRI,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+NAUKRI,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+NESTLEIND,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+NESTLEIND,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+NESTLEIND,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+NESTLEIND,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+NESTLEIND,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+NHPC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+NHPC,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+NHPC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+NHPC,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+NHPC,con,C12,Revenue growth below 5% CAGR over 5 years indicates limited top-line momentum,80.0
+NTPC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+NTPC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+NTPC,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+ONGC,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+ONGC,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+ONGC,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+PFC,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,86.2
+PFC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+PFC,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+PFC,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+PIDILITIND,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,80.8
+PIDILITIND,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+PIDILITIND,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+PIDILITIND,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+PNB,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+PNB,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+PNB,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+PNB,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+POWERGRID,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+POWERGRID,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+POWERGRID,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+RECLTD,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,80.4
+RECLTD,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+RECLTD,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+RECLTD,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+RELIANCE,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+RELIANCE,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+SBILIFE,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95.0
+SBILIFE,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+SBILIFE,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+SBILIFE,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+SBIN,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+SBIN,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+SBIN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+SBIN,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+SHREECEM,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+SHREECEM,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+SHREECEM,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+SHRIRAMFIN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+SHRIRAMFIN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+SHRIRAMFIN,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+SHRIRAMFIN,con,C06,Interest coverage below 1.5x indicates elevated debt-servicing pressure,92.0
+SHRIRAMFIN,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+SIEMENS,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+SIEMENS,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+SIEMENS,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+SIEMENS,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+SUNPHARMA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+SUNPHARMA,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+SUNPHARMA,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+SUNPHARMA,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+SUNPHARMA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+SUNPHARMA,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TATACONSUM,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+TATACONSUM,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+TATACONSUM,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TATAMOTORS,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,97.5
+TATAMOTORS,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+TATAMOTORS,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TATAPOWER,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+TATAPOWER,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+TATAPOWER,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TATASTEEL,pro,P12,Operating and financial metrics provide a measurable basis for continued monitoring,65.0
+TATASTEEL,con,C04,The latest period shows a net loss relative to sales,95.0
+TATASTEEL,con,C10,Return on capital employed below 10% indicates relatively modest capital returns,82.0
+TCS,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,99.0
+TCS,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+TCS,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+TCS,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+TCS,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TECHM,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+TECHM,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+TECHM,con,C07,Dividend payout above 100% indicates distributions exceed reported net profit,90.0
+TITAN,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,97.2
+TITAN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+TITAN,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+TITAN,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+TITAN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+TITAN,con,C03,Operating margins have declined across the latest three observations,82.0
+TORNTPHARM,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,84.2
+TORNTPHARM,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,88.0
+TORNTPHARM,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+TORNTPHARM,pro,P08,Dividend distribution is backed by positive free cash flow,80.0
+TORNTPHARM,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+TORNTPHARM,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TRENT,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,90.0
+TRENT,pro,P06,Net profit compounding at above 20% over 5 years indicates strong earnings compounding,90.0
+TRENT,pro,P07,Very high interest coverage or debt-free status indicates limited debt-servicing pressure,92.0
+TRENT,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+TRENT,con,C12,Some key financial indicators remain below the strongest peer-growth signals and warrant monitoring,65.0
+TVSMOTOR,pro,P01,Consistently high return on equity above 20% demonstrates strong capital efficiency,86.2
+TVSMOTOR,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings compounding,88.0
+TVSMOTOR,con,C01,Debt-to-equity ratio of 3.83 is elevated for a non-financial company and warrants monitoring,90.0
