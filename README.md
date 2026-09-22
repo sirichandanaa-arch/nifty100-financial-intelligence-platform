@@ -36,4 +36,4 @@ Place these 12 Excel files in `source/`: companies.xlsx, profitandloss.xlsx, bal
 - Duplicate company-year source rows are resolved deterministically and logged in `load_audit.csv` rather than inserted into primary-key tables.
 - Financials are exempt from the D/E screener warning/filter behavior where specified.
 - Negative CAGR bases produce explicit edge-case flags.
-- The supplied market-cap and stock-price datasets are labelled **SIMULATED** in the dashboard/report documentation.
+- The supplied market-cap and stock-price datasets are labelled simulated in the dashboard/report documentation.
